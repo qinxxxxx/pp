@@ -6,4 +6,8 @@ public class Tset {
         System.out.println("1111111111");
         System.out.println("1111111111");
     }
+    public void pp(){
+        int i=0;
+        i+=100;
+    }
 }
