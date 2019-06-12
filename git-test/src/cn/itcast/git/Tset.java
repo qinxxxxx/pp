@@ -9,5 +9,6 @@ public class Tset {
     public void pp(){
         int i=0;
         i+=100;
+        System.out.println(i);
     }
 }
